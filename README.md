@@ -1,5 +1,4 @@
 # AirBnB Clone
-![AirBnB Logo] (https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/512px-Airbnb_Logo_B%C3%A9lo.svg.png?20230603231949)
 
 # Project Description
 This is one part of the AirBnB project and it's focused on backend of the project and using console to interface with cmd module.
