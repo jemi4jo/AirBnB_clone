@@ -1,4 +1,4 @@
-# AirBnB Clone
+# hbnb Clone
 
 # Project Description
 This is one part of the AirBnB project and it's focused on backend of the project and using console to interface with cmd module.
